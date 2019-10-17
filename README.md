@@ -1,2 +1,2 @@
 # TransformationClassRepo
-Thie is a repo for my class
+This is a repo for my class
